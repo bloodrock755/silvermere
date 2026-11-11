@@ -1,0 +1,10 @@
+/target
+
+/server.log
+/silvermere
+
+# Local runtime data and configuration
+/data/
+/silvermere.toml
+/silvermere
+/server.log
